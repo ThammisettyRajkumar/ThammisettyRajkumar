@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Rajkumar 👋
 
-<!--
-**ThammisettyRajkumar/ThammisettyRajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate software engineer with expertise across multiple domains and technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, JavaScript, Python, TypeScript, SQL
+- **Frameworks/Libraries:** Spring Boot, React, Node.js, Express, Django
+- **Tools & Platforms:** Git, Docker, AWS, Jenkins, Maven, Gradle
+- **Databases:** MySQL, MongoDB, 
+
+## 💡 About Me
+
+- 🚀 I love building scalable applications and solving complex problems.
+- 🌱 Currently exploring cloud-native development and DevOps practices.
+- 🤝 I enjoy collaborating on open-source projects and sharing knowledge with the community.
+
+## 📈 GitHub Stats
+
+![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThammisettyRajkumar&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThammisettyRajkumar&layout=compact)
+
+
+
+_Thanks for stopping by! Let's build something amazing together._
